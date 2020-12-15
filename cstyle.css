@@ -1,0 +1,7 @@
+body{
+    background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
+    background-image: url(imgs/logis.jpg);
+    background-size: cover;
+    background-position: right;
+    padding: 0;
+}
